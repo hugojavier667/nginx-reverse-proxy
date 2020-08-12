@@ -61,6 +61,6 @@ location /bff-qa-ws/ {
 ## Enlaces revisados
 - Pa generar el certificado ssl autofirmado [link](https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-nginx-on-centos-7)
 
-- Modificación de hosts en linux [link](https://www.interserver.net/tips/kb/local-domain-names-ubuntu/)
+- Definición de hosts localmente [link](https://www.liquidweb.com/kb/edit-host-file-windows-10/)
 
 - Websocket con NGINX [link](https://www.nginx.com/blog/websocket-nginx/)
