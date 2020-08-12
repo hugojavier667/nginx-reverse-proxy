@@ -10,6 +10,8 @@
 
 4- Todos los fronts que se levanten deben ser accedidos desde el dominio xxxxx.chattigo.com usando https para que las cookies que llevan el flag Secure funcionen.
 
+Para probar con Postman se debe deshabilitar la verificación del certificado ssl
+
 ## Ejemplos
 
 ### Para consumir un servicio que está en qa
